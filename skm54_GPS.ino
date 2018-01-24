@@ -1,5 +1,5 @@
 /*
-Bill Geronatsios (c)  2014
+Bill Geronatsios (c)  2018
 This Sketch will run with the SkyLab SKM53 GPS 
  RXD Arduino Pin 3
  TXD Arduino Pin 2
